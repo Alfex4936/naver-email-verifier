@@ -1,0 +1,9 @@
+dist
+*.pyc
+*.egg-info
+.pypirc
+.env
+build/
+build_script.py
+builder.bat
+setup.py
